@@ -49,4 +49,4 @@ if (message.content.startsWith(adminprefix + 'setavatar')) {
 
 
 
-client.login("NTExNTA5MjQ0MzE1Njk3MTUy.Dsr7_g.WDs_IYpub1F0sJd0AKXHwjKl_OM");
+client.login("NTExNTA5MjQ0MzE1Njk3MTUy.DtSQyg.2cXxaMYJnLJRwBYjWaj5QqyZDPE");
